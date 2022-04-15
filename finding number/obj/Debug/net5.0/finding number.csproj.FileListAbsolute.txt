@@ -1,0 +1,16 @@
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\bin\Debug\net5.0\finding number.exe
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\bin\Debug\net5.0\finding number.deps.json
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\bin\Debug\net5.0\finding number.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\bin\Debug\net5.0\finding number.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\bin\Debug\net5.0\finding number.dll
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\bin\Debug\net5.0\finding number.pdb
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\obj\Debug\net5.0\finding number.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\obj\Debug\net5.0\finding number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\obj\Debug\net5.0\finding number.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\obj\Debug\net5.0\finding number.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\obj\Debug\net5.0\finding number.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\obj\Debug\net5.0\finding number.dll
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\obj\Debug\net5.0\refint\finding number.dll
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\obj\Debug\net5.0\finding number.pdb
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\obj\Debug\net5.0\finding number.genruntimeconfig.cache
+C:\Users\Spectre\OneDrive\Bureau\finding number\finding number\finding number\obj\Debug\net5.0\ref\finding number.dll
